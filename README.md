@@ -26,7 +26,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/color-matching-game.git
+git clone https://github.com/mez-git/color-matching-game.git
 Navigate to the project directory:
 
 bash
